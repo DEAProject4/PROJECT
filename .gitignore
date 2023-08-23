@@ -1,1 +1,6 @@
-
+__pycache__
+*.json
+Brazilian E-Commerce Public Dataset by Olist
+Marketing Funnel by Olist
+*.py
+sellers.ipynb
